@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1396],{21396:function(e,t,r){r.r(t);var a=r(7653);t.default=function(e){var t=e.url;return(0,e.renderWrap)(a.createElement("embed",{src:t,type:"application/pdf",style:{width:"100%",minHeight:600},className:"react-embed--pdf"}))}}}]);
